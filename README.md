@@ -30,7 +30,7 @@
 
 ## Como empezar
 ### Requisitos
-1. Java 17 o superior
+1. Java 17 o superior 
 
 ### Instalación
 1. Clonar el repositorio
