@@ -1,11 +1,16 @@
 # Spring boot CRUD By [Sotobotero](https://sotobotero.com)
 
 **Content**   
-1. [Como contribuir con este proyecto](#como-contribuir-con-este-proyecto)
-2. [Como empezar a usar la aplicación](#como-empezar)
-3. [How contribute to this project](#how-contribute-to-this-project)
-4. [Getting Started](#getting-started)
-## Como contribuir con este proyecto.
+- [Spring boot CRUD By Sotobotero](#spring-boot-crud-by-sotobotero)
+  - [Como contribuir con este proyecto.](#como-contribuir-con-este-proyecto)
+  - [Como empezar](#como-empezar)
+    - [Requisitos](#requisitos)
+    - [Instalación](#instalación)
+  - [How contribute to this project.](#how-contribute-to-this-project)
+  - [Getting Started](#getting-started)
+    - [Requirements](#requirements)
+    - [Installation](#installation)
+## Como contribuir con este proyecto. 
 
 1. Primero, necesitas hacer un fork del repositorio al que deseas contribuir. Esto creará una copia del repositorio en tu cuenta de GitHub. Puedes hacer un fork de un repositorio haciendo clic en el botón "Fork" en la esquina superior derecha de la página del repositorio. 
 
