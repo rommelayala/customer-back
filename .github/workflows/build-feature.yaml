@@ -82,8 +82,9 @@ jobs:
           branch: ${{ github.base_ref }}
       - name: Check the token
         run: |
-          echo "el secert configurado es -> "  
-          echo ${{ secrets.GITHUB_TOKEN }}
+          echo "el tokencito configurado es -> "  
+          echo "---> " ${{ secrets.GITHUB_TOKEN }}
+          echo "La variable de entorno es ${{ env.VARIABLE1 }}"
 
       ######################################################## 
       # 4- call publish-jar-as-artifact
