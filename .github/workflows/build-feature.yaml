@@ -84,7 +84,7 @@ jobs:
         run: |
           echo "el tokencito configurado es -> "  
           echo "---> " ${{ secrets.GITHUB_TOKEN }}
-          echo "La variable de entorno es ${{ env.VARIABLE1 }}"
+          echo "La variable de entorno es ${{ secrets.VARIABLE1 }}"
 
       ######################################################## 
       # 4- call publish-jar-as-artifact
